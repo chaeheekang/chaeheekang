@@ -1,9 +1,9 @@
 ### Introduce
 🤗 Hi~ I'm chaehee. I'm interested in DevOps and Cloud Security.   
-🖥️ I majored in '**Department of Information Security**' to understand information security   
-🧑🏽‍💼 For knowledge of corporate management I majored in '**Corporate Security Convergence Major**'   
-☁️ Active as the 3rd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud alliance club.   
-🍚 Participate in the Next Generation Security Leader Training Program (BOB) and carry out projects related to ‘cloud security’.   
+🖥️ I majored in '**Department of Information Security**' to understand information security.      
+🧑🏽‍💼 For knowledge of corporate management, I majored in '**Corporate Security Convergence Major**'   
+☁️ Active as the 3rd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud student union club.     
+🍚 Participate in the Next Generation Security Leader Training Program([BOB](https://www.kitribob.kr/)) and carry out projects related to ‘cloud security’.   
 
 ### Skill Set
 <div align=center>
