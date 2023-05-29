@@ -9,7 +9,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -29,5 +29,13 @@
  </div>
  
 ### Project
+- Developing Happy Birthday Slack Bot through Gitops | [Project Repo](https://github.com/cloud-club/GitOps-ChucarBot)   
+- System Proposal for Container Security in DevSecOps Environment | [Project Repo](https://github.com/team-saba)   
 
 ### Activity History
+- 2023.01 ~ : 3rd president of 'Cloud Club'   
+- 2022.07 ~ 2023.03 : BOB 11th   
+- 2022.04 ~ 2022.12 : Seoul Women's University Information Security Gifted Learning Center Tutor   
+- 2022.02 ~ 2022.12 : 1st & 2nd Mangement of 'Cloud Club'   
+- 2021.03 ~ 2022.06 : Comparison Study of the Performance of CNN Models for malicious code image classification   
+- 2019.03 ~ 2021.12 : Mangement of Seoul Women's Universit Premajor    
