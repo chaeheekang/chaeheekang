@@ -1,10 +1,10 @@
-# Introduce
-🤗 Hi~ I'm chaehee. I'm interested in DevOps and Cloud Security.
-🖥️ I majored in '**Department of Information Security**' to understand information security, and for knowledge of corporate management I majored in '**Corporate Security Convergence Major**'
-☁️ Active as the 3rd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud alliance club.
-🍚 Participate in the Next Generation Security Leader Training Program (BOB) and carry out projects related to ‘cloud security’.
+### Introduce
+🤗 Hi~ I'm chaehee. I'm interested in DevOps and Cloud Security.   
+🖥️ I majored in '**Department of Information Security**' to understand information security, and for knowledge of corporate management I majored in '**Corporate Security Convergence Major**'   
+☁️ Active as the 3rd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud alliance club.   
+🍚 Participate in the Next Generation Security Leader Training Program (BOB) and carry out projects related to ‘cloud security’.   
 
-# Skill Set
+### Skill Set
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
@@ -27,6 +27,6 @@
   <br>
  </div>
  
-# Project
+### Project
 
-# Activity History
+### Activity History
