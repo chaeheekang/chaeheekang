@@ -33,7 +33,8 @@
 - System Proposal for Container Security in DevSecOps Environment | [Project Repo](https://github.com/team-saba)   
 
 ### Activity History
-- 2023.09 ~ : 4th president of 'Cloud Club'   
+- 2023.09 ~ : 4th president of 'Cloud Club'
+- 2023.07 ~ : Sales Engineer Intern at [Splunk](https://www.splunk.com/)
 - 2023.01 ~ 2023.08 : 3rd president of 'Cloud Club'   
 - 2022.07 ~ 2023.03 : BOB 11th   
 - 2022.04 ~ 2022.12 : Seoul Women's University Information Security Gifted Learning Center Tutor   
