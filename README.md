@@ -2,7 +2,7 @@
 🤗 Hi~ I'm chaehee. I'm interested in DevOps and Cloud Security.   
 🖥️ I majored in '**Department of Information Security**' to understand information security.      
 🧑🏽‍💼 For knowledge of corporate management, I majored in '**Corporate Security Convergence Major**'   
-☁️ Active as the 3rd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud student union club.     
+☁️ Active as the 4thd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud student union club.     
 🍚 Participate in the Next Generation Security Leader Training Program([BOB](https://www.kitribob.kr/)) and carry out projects related to ‘cloud security’.   
 
 ### Skill Set
@@ -33,7 +33,8 @@
 - System Proposal for Container Security in DevSecOps Environment | [Project Repo](https://github.com/team-saba)   
 
 ### Activity History
-- 2023.01 ~ : 3rd president of 'Cloud Club'   
+- 2023.09 ~ : 4th president of 'Cloud Club'   
+- 2023.01 ~ 2023.08 : 3rd president of 'Cloud Club'   
 - 2022.07 ~ 2023.03 : BOB 11th   
 - 2022.04 ~ 2022.12 : Seoul Women's University Information Security Gifted Learning Center Tutor   
 - 2022.02 ~ 2022.12 : 1st & 2nd Mangement of 'Cloud Club'   
