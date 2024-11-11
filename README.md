@@ -1,8 +1,8 @@
 ### Introduce
-🤗 Hi~ I'm chaehee. I'm interested in DevOps and Cloud Security.   
-🖥️ I majored in '**Department of Information Security**' to understand information security.      
+🤗 Hi. This is Chaehee based in Seoul. I'm interested in DevOps and Cloud Security.   
+🖥️ My major is '**Department of Information Security**' since I want to understand information security area.      
 🧑🏽‍💼 For knowledge of corporate management, I majored in '**Corporate Security Convergence Major**'   
-☁️ Active as the 4thd president of [CLOUD CLUB](https://cloudclub.oopy.io/), a cloud student union club.     
+☁️ Active as the 4thd president of **[CLOUD CLUB](https://www.cloudclub.kr/)**, a cloud student union club.     
 🍚 Participate in the Next Generation Security Leader Training Program([BOB](https://www.kitribob.kr/)) and carry out projects related to ‘cloud security’.   
 
 ### Skill Set
@@ -33,11 +33,13 @@
 - System Proposal for Container Security in DevSecOps Environment | [Project Repo](https://github.com/team-saba)   
 
 ### Activity History
-- 2023.09 ~ : 4th president of 'Cloud Club'
-- 2023.07 ~ : Sales Engineer Intern at [Splunk](https://www.splunk.com/)
-- 2023.01 ~ 2023.08 : 3rd president of 'Cloud Club'   
-- 2022.07 ~ 2023.03 : BOB 11th   
-- 2022.04 ~ 2022.12 : Seoul Women's University Information Security Gifted Learning Center Tutor   
-- 2022.02 ~ 2022.12 : 1st & 2nd Mangement of 'Cloud Club'   
-- 2021.03 ~ 2022.06 : Comparison Study of the Performance of CNN Models for malicious code image classification   
-- 2019.03 ~ 2021.12 : Mangement of Seoul Women's Universit Premajor    
+- 2024.02 - : Solutions Engineer at [Splunk](https://www.splunk.com/)
+- 2024.01 - : Member of [Cloud Club](https://www.cloudclub.kr/)
+- 2023.09 - 2023.12 : 4th president of [Cloud Club](https://www.cloudclub.kr/)
+- 2023.07 - 2024.02: Sales Engineer Intern at [Splunk](https://www.splunk.com/)
+- 2023.01 - 2023.08 : 3rd president of [Cloud Club](https://www.cloudclub.kr/)   
+- 2022.07 - 2023.03 : BOB 11th   
+- 2022.04 - 2022.12 : Seoul Women's University Information Security Gifted Learning Center Tutor   
+- 2022.02 - 2022.12 : 1st & 2nd Mangement of [Cloud Club](https://www.cloudclub.kr/)   
+- 2021.03 - 2022.06 : Comparison Study of the Performance of CNN Models for malicious code image classification   
+- 2019.03 - 2021.12 : Mangement of Seoul Women's University Premajor    
